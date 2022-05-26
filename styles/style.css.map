@@ -5,7 +5,7 @@
         "style.scss",
         "_general.scss",
         "_card.scss",
-        "queries.scss"
+        "_queries.scss"
     ],
     "names": [],
     "file": "style.css"
