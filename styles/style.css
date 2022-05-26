@@ -236,8 +236,8 @@ body {
     font-size: 1.6rem;
   }
   .container .card #rating-box .rating-btn div {
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    -webkit-transform: translateY(10);
+            transform: translateY(10);
   }
   .container .card #submit-btn {
     margin-top: 3.2rem;

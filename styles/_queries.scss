@@ -31,13 +31,17 @@
           font-size: 1.6rem;
 
           div {
-            transform: translateY(0);
+            transform: translateY(10);
           }
         }
       }
 
       #submit-btn {
         margin-top: 3.2rem;
+
+        div {
+          font-weight: bold;
+        }
       }
     }
   }
